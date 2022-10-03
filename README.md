@@ -6,21 +6,21 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
 
 ## Some of my Skills
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-43853d?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2080d8?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-2080d8?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-2080d8?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-484?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-28D?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-28D?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-28D?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-409?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-440099?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-440099?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-CC6699?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-CB3837?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-EE5533?style=flat-square&logo=express&logoColor=white" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-EE5533?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-aa8800?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-aa8800?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-aa8800?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-409?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-C69?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-C69?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-C69?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-E53?style=flat-square&logo=express&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-E53?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-a80?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-a80?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-a80?style=flat-square&logo=heroku&logoColor=white" />
   
 </p>
 
