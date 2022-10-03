@@ -16,11 +16,11 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
   <img alt="git" src="https://img.shields.io/badge/-Git-CB3837?style=flat-square&logo=git&logoColor=white" />
   <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-CB3837?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-FB542B?style=flat-square&logo=express&logoColor=white" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FB542B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-bb9900?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-CB3837?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-CB3837?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-EE5533?style=flat-square&logo=express&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-EE5533?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-bbaa00?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-bbaa00?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-bbaa00?style=flat-square&logo=heroku&logoColor=white" />
   
 </p>
 
