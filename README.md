@@ -18,7 +18,7 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-EE5533?style=flat-square&logo=express&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-EE5533?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-bbaa00?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-aa8800?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-aa8800?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-aa8800?style=flat-square&logo=heroku&logoColor=white" />
   
