@@ -6,8 +6,8 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
 
 ## Some of my Skills
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-5-430098?style=flat-square&logo=html&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-3-430098?style=flat-square&logo=css&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-430098?style=flat-square&logo=html&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-430098?style=flat-square&logo=css&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-430098?style=flat-square&logo=typescript&logoColor=white" />
