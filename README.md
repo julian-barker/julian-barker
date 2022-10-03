@@ -14,7 +14,7 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-409?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-C69?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-D35?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-C33?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-C69?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-E53?style=flat-square&logo=express&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-E53?style=flat-square&logo=mongodb&logoColor=white" />
