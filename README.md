@@ -1,6 +1,6 @@
 # Hi, I'm Julian Barker! 👋
 
-I'm a junior software engineer, tech enthusiast, and prior Army Officeer. I'm proficient in HTML, CS, and JS, as well as common frontend frameworks such as React and Bootstrap. One of my greatest strengths is my voracious appetite for learning new skills and tools. I'm looking for opportunities to contribute and hone my skills in a team of talented devs. I love a challenge, and I love seeing the positive impacts of the work I contribute!
+I'm a software engineer, tech enthusiast, and prior Army Officer. I'm proficient in full-stack web-development with several frameworks and libraries including React, Next.js, and Astro. One of my greatest strengths is my voracious appetite for learning new skills and tools. I'm looking for opportunities to contribute and hone my skills in a team of talented devs. I love a challenge, and I love seeing the positive impacts of the work I contribute!
 
 Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.dev)!
 
