@@ -9,21 +9,21 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-409?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-409?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node JS" src="https://img.shields.io/badge/-Nodejs-B33?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node JS" src="https://img.shields.io/badge/-NodeJS-B33?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-NextJS-409?style=flat-square&logo=nextjs&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-484?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-28D?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img alt="AWS S3" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=amazons3&logoColor=white" />
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=amazonlambda&logoColor=white" />
-  <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  <img alt="AWS CloudWatch" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-409?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-409?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-409?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="AWS EC2" src="https://img.shields.io/badge/-AmazonEC2-409?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/-AmazonS3-409?style=flat-square&logo=amazons3&logoColor=white" />
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/-Lambda-409?style=flat-square&logo=amazonlambda&logoColor=white" />
+  <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-DynamoDB-409?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img alt="AWS CloudWatch" src="https://img.shields.io/badge/-CloudWatch-409?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-28D?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-28D?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-React-409?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-409?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-C69?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-B33?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-E53?style=flat-square&logo=express&logoColor=white" /> 
