@@ -6,32 +6,32 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
 
 ## Some of my Skills
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-fc1a84?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ff2775?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-ff3467?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node JS" src="https://img.shields.io/badge/-NodeJS-ff425a?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-NextJS-fe4f4d?style=flat-square&logo=nextjs&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-fb5c42?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-f56837?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-ef732c?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-e87e23?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-df871b?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/-AmazonEC2-d69115?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img alt="AWS S3" src="https://img.shields.io/badge/-AmazonS3-cc9915?style=flat-square&logo=amazons3&logoColor=white" />
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/-Lambda-c2a11a?style=flat-square&logo=amazonlambda&logoColor=white" />
-  <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-DynamoDB-b8a923?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  <img alt="AWS CloudWatch" src="https://img.shields.io/badge/-CloudWatch-adb02e?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-a2b63a?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-96bc47?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-8ac255?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-7dc764?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-70cb73?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-62d083?style=flat-square&logo=express&logoColor=white" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-52d493?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-41d8a3?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-2bdbb3?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-03dec2?style=flat-square&logo=heroku&logoColor=white" />
-  
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-94001f?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-901516?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-8b210c?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node JS" src="https://img.shields.io/badge/-NodeJS-852a02?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-NextJS-7f3200?style=flat-square&logo=nextjs&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-793900?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-723e00?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-6b4300?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-644800?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d4b00?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="AWS EC2" src="https://img.shields.io/badge/-AmazonEC2-
+564f00?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/-AmazonS3-4f5100?style=flat-square&logo=amazons3&logoColor=white" />
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/-Lambda-485403?style=flat-square&logo=amazonlambda&logoColor=white" />
+  <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-DynamoDB-41560d?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img alt="AWS CloudWatch" src="https://img.shields.io/badge/-CloudWatch-3a5817?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-335a20?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-2b5b29?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-245c31?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-1c5d39?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-135e40?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-085f47?style=flat-square&logo=express&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-005f4e?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-006054?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-00605a?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-00605f?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
 <details>
