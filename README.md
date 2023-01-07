@@ -16,8 +16,7 @@ Check out my personal portfolio at [Jack of Some Trades](https://julianbarker.de
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-6b4300?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-644800?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-5d4b00?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/-AmazonEC2-
-564f00?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img alt="AWS EC2" src="https://img.shields.io/badge/-AmazonEC2-564f00?style=flat-square&logo=amazonec2&logoColor=white" />
   <img alt="AWS S3" src="https://img.shields.io/badge/-AmazonS3-4f5100?style=flat-square&logo=amazons3&logoColor=white" />
   <img alt="AWS Lambda" src="https://img.shields.io/badge/-Lambda-485403?style=flat-square&logo=amazonlambda&logoColor=white" />
   <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-DynamoDB-41560d?style=flat-square&logo=amazondynamodb&logoColor=white" />
