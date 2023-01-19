@@ -1,3 +1,5 @@
+![banner-photo](./banner-photo.png)
+
 # Hi, I'm Julian! 🦖
 
 I'm a software engineer, tech enthusiast, and prior Army Officer. My experience is mostly in full-stack web-development with several frameworks and libraries including React, Next.js, and Astro. One of my greatest strengths is my voracious appetite for learning new skills and tools, and I am currently experimenting with other JS runtimes like Deno and Bun, alternatives to React such as Svelte, and other languages in general (Rust). I'm looking for opportunities to contribute and hone my skills in a team of talented devs. I love a challenge, and I love seeing the positive impacts of the work I contribute!
