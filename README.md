@@ -2,7 +2,7 @@
 
 # Hi, I'm Julian! 🦖
 
-I'm a software engineer, tech enthusiast, and prior Army Officer. My experience is mostly in full-stack web-development with several frameworks and libraries including React, Next.js, and Astro. One of my greatest strengths is my voracious appetite for learning new skills and tools, and I am currently experimenting with other JS runtimes like Deno and Bun, alternatives to React such as Svelte, and other languages in general (Rust). I'm looking for opportunities to contribute and hone my skills in a team of talented devs. I love a challenge, and I love seeing the positive impacts of the work I contribute!
+I'm a software engineer and prior U.S. Army Officer with experience building full-stack web applications in React and other frontend frameworks like Next.js and Astro. My goal is to deliver a positive experience to end users by solving difficult technical problems and writing quality, tested code. I have a voracious appetite for learning new skills and tools, and I'm currently experimenting with other JS runtimes like Deno and Bun, alternatives to React such as Svelte, and other languages in general (Rust). I'm looking for opportunities to contribute and hone my skills in a team of talented devs. I love a challenge, and I love seeing the positive impacts of the work I contribute!
 
 Check out my personal portfolio at [julianbarker.dev](https://julianbarker.dev)!
 
